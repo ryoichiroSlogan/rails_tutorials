@@ -1,3 +1,6 @@
+[submodule "first"]
+	path = first
+	url = ./first
 [submodule "toy_app"]
 	path = toy_app
 	url = ./toy_app
